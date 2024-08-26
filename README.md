@@ -1,5 +1,5 @@
 ## Flutter FCM Notification App
-A Flutter application demonstrating Firebase Cloud Messaging (FCM) integration for handling push notifications in both foreground and background states. The app follows best coding practices, and SOLID principles, and implements an organized architecture for managing notifications.
+A Flutter application demonstrating Firebase Cloud Messaging (FCM) integration for handling notifications in the foreground, background and also in the terminated state. The app follows best coding practices, and SOLID principles, and implements an organized architecture for managing notifications.
 
 ## Features:
 Firebase Cloud Messaging (FCM) integration.
